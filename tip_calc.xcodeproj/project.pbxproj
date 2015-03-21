@@ -39,7 +39,7 @@
 		CB5159C21ABA8BF60072F7F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5159C31ABA8BF60072F7F0 /* tip_calcTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calcTests.swift; sourceTree = "<group>"; };
 		CB9795E91ABD4C9A00880DD0 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
-		CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = TipCalcDemo.gif; path = ../../../TipCalcDemo.gif; sourceTree = "<group>"; };
+		CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = TipCalcDemo.gif; path = ../../../../TipCalcDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +63,6 @@
 		CB51599F1ABA8BF60072F7F0 = {
 			isa = PBXGroup;
 			children = (
-				CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */,
 				CB5159AA1ABA8BF60072F7F0 /* tip_calc */,
 				CB5159C01ABA8BF60072F7F0 /* tip_calcTests */,
 				CB5159A91ABA8BF60072F7F0 /* Products */,
@@ -82,6 +81,7 @@
 		CB5159AA1ABA8BF60072F7F0 /* tip_calc */ = {
 			isa = PBXGroup;
 			children = (
+				CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */,
 				CB5159AD1ABA8BF60072F7F0 /* AppDelegate.swift */,
 				CB5159AF1ABA8BF60072F7F0 /* ViewController.swift */,
 				CB5159B11ABA8BF60072F7F0 /* Main.storyboard */,
