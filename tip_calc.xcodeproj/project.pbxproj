@@ -14,6 +14,7 @@
 		CB5159B81ABA8BF60072F7F0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB5159B61ABA8BF60072F7F0 /* LaunchScreen.xib */; };
 		CB5159C41ABA8BF60072F7F0 /* tip_calcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5159C31ABA8BF60072F7F0 /* tip_calcTests.swift */; };
 		CB9795EA1ABD4C9A00880DD0 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9795E91ABD4C9A00880DD0 /* SettingsViewController.swift */; };
+		CBFBDB411ABD94A600789CE5 /* TipCalcDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		CB5159C21ABA8BF60072F7F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5159C31ABA8BF60072F7F0 /* tip_calcTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calcTests.swift; sourceTree = "<group>"; };
 		CB9795E91ABD4C9A00880DD0 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = TipCalcDemo.gif; path = ../../../TipCalcDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		CB51599F1ABA8BF60072F7F0 = {
 			isa = PBXGroup;
 			children = (
+				CBFBDB401ABD94A600789CE5 /* TipCalcDemo.gif */,
 				CB5159AA1ABA8BF60072F7F0 /* tip_calc */,
 				CB5159C01ABA8BF60072F7F0 /* tip_calcTests */,
 				CB5159A91ABA8BF60072F7F0 /* Products */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBFBDB411ABD94A600789CE5 /* TipCalcDemo.gif in Resources */,
 				CB5159B31ABA8BF60072F7F0 /* Main.storyboard in Resources */,
 				CB5159B81ABA8BF60072F7F0 /* LaunchScreen.xib in Resources */,
 				CB5159B51ABA8BF60072F7F0 /* Images.xcassets in Resources */,

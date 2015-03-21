@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>189B5AE5-6997-478C-8100-91BB65637B02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tip_calc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94864CCA55CD76B10F912409B5AF271EF5D0F6F6</key>
+		<string>https://github.com/cgirod3/tip_calc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tip_calc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94864CCA55CD76B10F912409B5AF271EF5D0F6F6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cgirod3/tip_calc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94864CCA55CD76B10F912409B5AF271EF5D0F6F6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94864CCA55CD76B10F912409B5AF271EF5D0F6F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tip_calc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

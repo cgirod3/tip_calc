@@ -60,8 +60,8 @@ class ViewController: UIViewController {
         var billAmount = string.doubleValue
         
         var tip = Double(tips[tipControl.selectedSegmentIndex]!) * 0.01 * billAmount
-        tip = tip/personStepper.value
         var total = billAmount + tip
+        tip = tip/personStepper.value
         total = total/personStepper.value
         
         var tipString = String(format: "$%.2f", tip)
