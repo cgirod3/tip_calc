@@ -13,6 +13,7 @@
 		CB5159B51ABA8BF60072F7F0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB5159B41ABA8BF60072F7F0 /* Images.xcassets */; };
 		CB5159B81ABA8BF60072F7F0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB5159B61ABA8BF60072F7F0 /* LaunchScreen.xib */; };
 		CB5159C41ABA8BF60072F7F0 /* tip_calcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5159C31ABA8BF60072F7F0 /* tip_calcTests.swift */; };
+		CB91F2F31ABD9C3300F22795 /* TipCalcDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = CB91F2F21ABD9C3300F22795 /* TipCalcDemo.gif */; };
 		CB9795EA1ABD4C9A00880DD0 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9795E91ABD4C9A00880DD0 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		CB5159BD1ABA8BF60072F7F0 /* tip_calcTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tip_calcTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5159C21ABA8BF60072F7F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5159C31ABA8BF60072F7F0 /* tip_calcTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calcTests.swift; sourceTree = "<group>"; };
+		CB91F2F21ABD9C3300F22795 /* TipCalcDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TipCalcDemo.gif; sourceTree = "<group>"; };
 		CB9795E91ABD4C9A00880DD0 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,6 +81,7 @@
 		CB5159AA1ABA8BF60072F7F0 /* tip_calc */ = {
 			isa = PBXGroup;
 			children = (
+				CB91F2F21ABD9C3300F22795 /* TipCalcDemo.gif */,
 				CB5159AD1ABA8BF60072F7F0 /* AppDelegate.swift */,
 				CB5159AF1ABA8BF60072F7F0 /* ViewController.swift */,
 				CB5159B11ABA8BF60072F7F0 /* Main.storyboard */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB91F2F31ABD9C3300F22795 /* TipCalcDemo.gif in Resources */,
 				CB5159B31ABA8BF60072F7F0 /* Main.storyboard in Resources */,
 				CB5159B81ABA8BF60072F7F0 /* LaunchScreen.xib in Resources */,
 				CB5159B51ABA8BF60072F7F0 /* Images.xcassets in Resources */,
