@@ -24,5 +24,7 @@ I had never written in Swift before or used Xcode for iOS development before, so
 
 Walkthrough of stories:
 
+![alt tag](https://github.com/cgirod3/tip_calc/blob/master/tip_calc/TipCalcDemo.gif)
+
 Created using LICEcap.
 
